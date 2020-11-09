@@ -46,22 +46,7 @@ class Gen<T>{
     		 System.out.println("Eres una palabra");
     	 }
     	 else
-    	 if(ob instanceof Integer)
-    	 {
-    		 System.out.println("Eres un numero");
-    	 }
-    	 else
-    	 if(ob instanceof Double)
-    	 {
-    		 System.out.println("Eres un numero");
-    	 }
-    	 else
-    	 if(ob instanceof Long)
-    	 {
-    		 System.out.println("Eres un numero");
-    	 }
-    	 else
-    	 if(ob instanceof Float)
+    	 if(ob instanceof Integer || ob instanceof Double || ob instanceof Long || ob instanceof Float)
     	 {
     		 System.out.println("Eres un numero");
     	 }
