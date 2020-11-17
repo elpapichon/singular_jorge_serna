@@ -1,0 +1,2 @@
+- El programa nos pedira teclear un NIP, validando que este sea numerico y de 4 digitos
+- Una ves tecleado un NIP valido nos arrojara un nip al azar para tratar de adivinar el nip que nosotros tecleamos
