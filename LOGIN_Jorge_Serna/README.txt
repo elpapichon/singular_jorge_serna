@@ -1,0 +1,3 @@
+- Puedes teclear 2 para iniciar el registro o 1 si ya tienes una cuenta
+- Para registrarte te pedira un usuario y contraseña (Validando si el nombre se usuario esta disponible)
+- Si ya completaste tu registro, al momento de logearte, si es tu primer logeo te pedira tu nombre completo y edad
