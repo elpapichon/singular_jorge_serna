@@ -1,0 +1,2 @@
+- El programa cuenta con la clase generica Gen<T>, a la cual se le puede asignar cualquier tipo de objeto en el metodo constructor
+- Para mostrar el tipo de objeto que le fue enviado solo tenemos que usar la funcion mostrarTipo para imprimir el tipo de dato
